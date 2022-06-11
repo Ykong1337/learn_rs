@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/demo_OptionT/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/demo/main/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/all/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_miditest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_enum_vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_vec/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_Generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_Result/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_Result1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_panic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_wrapper_function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/guess/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/demo/main/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_method/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_OptionT/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/all/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_miditest/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_vec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_enum_vec/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_hashmap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_panic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_Result/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_Result1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/guess/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_wrapper_function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_Generics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_trait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/leetcode/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
