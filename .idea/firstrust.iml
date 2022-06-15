@@ -26,6 +26,7 @@
       <sourceFolder url="file://$MODULE_DIR$/guess/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/demo_test/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_minigrep/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/demo/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/demo/target" />
@@ -49,6 +50,7 @@
       <excludeFolder url="file://$MODULE_DIR$/demo_trait/target" />
       <excludeFolder url="file://$MODULE_DIR$/demo_test/target" />
       <excludeFolder url="file://$MODULE_DIR$/leetcode/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_minigrep/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
