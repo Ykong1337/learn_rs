@@ -27,6 +27,13 @@
       <sourceFolder url="file://$MODULE_DIR$/demo_test/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/leetcode/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/demo_minigrep/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_Closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_channel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_iter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_oop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_smart_pointer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_sync/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_thread/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/demo/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/demo/target" />
@@ -51,6 +58,13 @@
       <excludeFolder url="file://$MODULE_DIR$/demo_test/target" />
       <excludeFolder url="file://$MODULE_DIR$/leetcode/target" />
       <excludeFolder url="file://$MODULE_DIR$/demo_minigrep/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_Closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_iter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_smart_pointer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_thread/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_channel/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_sync/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_oop/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
