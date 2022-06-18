@@ -1,3 +1,4 @@
+
 fn main() {
     let screen = Screen {
         components: vec![
