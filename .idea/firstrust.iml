@@ -34,6 +34,10 @@
       <sourceFolder url="file://$MODULE_DIR$/demo_smart_pointer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/demo_sync/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/demo_thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_fn/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_macro/macro_define/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_macro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo_web/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/demo/main/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/demo/target" />
@@ -65,6 +69,10 @@
       <excludeFolder url="file://$MODULE_DIR$/demo_channel/target" />
       <excludeFolder url="file://$MODULE_DIR$/demo_sync/target" />
       <excludeFolder url="file://$MODULE_DIR$/demo_oop/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_fn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_macro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_macro/macro_define/target" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_web/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
